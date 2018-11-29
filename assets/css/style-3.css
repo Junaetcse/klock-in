@@ -941,3 +941,12 @@ Version: 1.0
     background: #fff url('../img/loader.gif') no-repeat center center;
 }
 /* END of Pre Loader Style */
+
+.single-about-box {
+	margin-top: 35px;
+}
+
+.about-area {
+	text-align: center;
+}
+
