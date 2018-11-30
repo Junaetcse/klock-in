@@ -155,7 +155,7 @@ Version: 1.0
 -------- BANNER AREA CSS START --------
 ---------------------------------------*/
 .banner-area {
-    padding-top: 185px;
+    padding-top: 110px;
     padding-bottom: 170px;
 	z-index: 1;
 	position: relative;
@@ -349,9 +349,14 @@ Version: 1.0
 .single-feature-box h2 {
     text-transform: uppercase;
 	color: #fff;
+    margin-bottom: 30px;
 }
 .single-feature-box p {
 	margin-top: 25px;
+}
+
+.privacy p{
+    color: #ffffff;
 }
 .single-feature-box .appbox-btn {
 	margin-top: 50px;
@@ -432,6 +437,7 @@ Version: 1.0
 }
 .single-tutorial-box .tab-pane p {
 	margin-bottom: 10px;
+    font-size: 20px;
 }
 .single-tutorial-box .video-popup {
 	border-radius: 5px;
